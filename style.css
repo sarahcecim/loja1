@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Double+Pica+SC&family=Inter:wght@100;600&display=swap');
+
+.container{
+display: grid;
+box-sizing: content-box;
+margin-top: 5%;
+border: solid 2px;
+border-radius: 2ch;
+background: rgb(39, 35, 128);
+background: linear-gradient(90deg, #c3c1ec 0%, rgba(153,105,218,0.7959558823529411) 42%, rgba(0,212,255,1) 100%);
+padding: 5px 40px 2px 20px;
+font-family: Inter;
+font-weight: bold;
+font-size: 20px;
+color: #1a1616;
+}
+
+.comprar{
+display: grid;
+padding: 20px;
+box-sizing: content-box;
+border: solid 1px;
+border-radius: 2ch;
+margin: 0;
+font-family: Inter;
+font-weight: bold;
+font-size: 20px;
+color: #1a1616;
+text-decoration: none;
+}
